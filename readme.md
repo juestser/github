@@ -15,6 +15,10 @@ Inicializa um repositório localmente.
 `git commit -m "comentário"` - registra os arquivos na história do repositório
 
 ### git push
-`git push` - envia os arquivos para o repositório remoto
+`git push` - envia os arquivos para o repositório 
 
-\Autor: Eder Mendes dos Santos\
+### git status 
+`git status` - verifica o status dos commits do github
+
+### git pull
+`git pull` - baixa possíveis alterações feitas por outros usuários caso haja trabalho colaborativo
