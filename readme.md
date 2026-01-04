@@ -2,8 +2,17 @@
 
 #Comandos essenciais:#
 
-git init inicializa um repositório localmente
-git add (nome do arquivo) adiciona arquivo a fila de commit
-git add . adiciona todos os arquivos existentes localmente para a fila
-git commit -m "comentário" adiciona os arquivos para serem adicionados 
-git push reliza a subida dos arquivos pra dentro do repositório
+## Comandos Essenciais
+
+### git init
+Inicializa um repositório localmente.
+
+### git add
+- `git add <nome-do-arquivo>` - adiciona arquivo à fila de commit
+- `git add .` - adiciona todos os arquivos locais para a fila
+
+### git commit
+`git commit -m "comentário"` - registra os arquivos na história do repositório
+
+### git push
+`git push` - envia os arquivos para o repositório remoto
