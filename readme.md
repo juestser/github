@@ -16,3 +16,5 @@ Inicializa um repositório localmente.
 
 ### git push
 `git push` - envia os arquivos para o repositório remoto
+
+\Autor: Eder Mendes dos Santos\
